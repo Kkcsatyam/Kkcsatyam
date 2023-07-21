@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kkcsatyam
+- 👋 Hi, I’m @satyam_rao
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning operating system & python
 - 💞️ I’m looking to collaborate on 
